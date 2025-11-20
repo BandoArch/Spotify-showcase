@@ -1,4 +1,4 @@
-# 🎵 Spotify Showcase
+#  Spotify Showcase
 
 ![Spotify Banner](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)
 
@@ -6,7 +6,7 @@ Welcome to **BandoArch/Spotify-Showcase** — a portfolio project inspired by Sp
 
 ---
 
-## 📂 Project Overview
+##  Project Overview
 - Built with **TypeScript + Vite**
 - Modular **React components** for reusability
 - Features include:
@@ -16,14 +16,14 @@ Welcome to **BandoArch/Spotify-Showcase** — a portfolio project inspired by Sp
 
 ---
 
-## 👤 Author
-** (BandoArch)**  
+##  Author
+BandoArch 
 - 📧 Email: [eliudmugo360@gmail.com]  
 - 💼 LinkedIn: [www.linkedin.com/in/eliud-mugo-8a3822175]  
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 Clone the repository and install dependencies:
 ```bash
 git clone https://github.com/BandoArch/Spotify-Showcase.git
