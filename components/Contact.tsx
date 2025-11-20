@@ -13,7 +13,7 @@ const Contact: React.FC = () => {
         </div>
         
         <h2 className="text-4xl md:text-6xl font-black text-center mb-8 tracking-tight">
-          Built by Eliud Mugo.
+          Built by BandoArch.
         </h2>
         <p className="text-center text-gray-400 text-lg mb-12 max-w-2xl mx-auto">
           I build high-performance, beautiful interactive experiences. This Spotify clone is a demonstration of React, Tailwind CSS, and modern UI/UX principles.
@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
                 </div>
                 <div>
                   <p className="text-sm text-gray-400">Email Me</p>
-                  <p className="text-white font-medium break-all">eliudmugo360@gmail.com</p>
+                  <p className="text-white font-medium break-all">tartagliachilde22@gmail.com</p>
                 </div>
               </a>
 
@@ -57,7 +57,7 @@ const Contact: React.FC = () => {
                <div className="w-20 h-20 bg-black rounded-full flex items-center justify-center mb-6 shadow-lg">
                  <span className="text-3xl font-bold text-white">EM</span>
                </div>
-               <h4 className="text-2xl font-bold mb-2 text-black">Eliud Mugo</h4>
+               <h4 className="text-2xl font-bold mb-2 text-black">BandoArch</h4>
                <p className="text-black/80 font-medium mb-6">Frontend Developer</p>
                <button className="bg-black text-white px-6 py-3 rounded-full font-bold text-sm flex items-center gap-2 hover:scale-105 transition-transform">
                  View Full Portfolio <ExternalLink className="w-4 h-4" />

@@ -37,7 +37,7 @@ const Hero: React.FC = () => {
           </div>
           
           <div className="mt-12 text-xs text-spotify-subdued uppercase tracking-widest font-bold">
-            Developed by Eliud Mugo
+            Developed by BandoArch
           </div>
         </motion.div>
 

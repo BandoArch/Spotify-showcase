@@ -55,9 +55,9 @@ const Footer: React.FC = () => {
             <a href="#" className="hover:text-white">About Ads</a>
           </div>
           <div className="flex flex-col md:flex-row items-center gap-2">
-            <span>&copy; 2024 Spotify AB</span>
+            <span>&copy; 2025 Spotify</span>
             <span className="hidden md:inline">•</span>
-            <span className="text-spotify-green">Designed by Eliud Mugo</span>
+            <span className="text-spotify-green">Designed by BandoArch</span>
           </div>
         </div>
       </div>
