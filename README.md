@@ -18,8 +18,8 @@ Welcome to **BandoArch/Spotify-Showcase** — a portfolio project inspired by Sp
 
 ##  Author
 BandoArch 
-- 📧 Email: [eliudmugo360@gmail.com]  
-- 💼 LinkedIn: [www.linkedin.com/in/eliud-mugo-8a3822175]  
+-  Email: [eliudmugo360@gmail.com]  
+-  LinkedIn: [www.linkedin.com/in/eliud-mugo-8a3822175]  
 
 ---
 
