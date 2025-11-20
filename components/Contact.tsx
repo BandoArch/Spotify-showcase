@@ -55,7 +55,7 @@ const Contact: React.FC = () => {
             {/* Visual Element / Mini CTA */}
             <div className="flex flex-col items-center justify-center text-center bg-gradient-to-br from-spotify-green to-emerald-900 rounded-xl p-8">
                <div className="w-20 h-20 bg-black rounded-full flex items-center justify-center mb-6 shadow-lg">
-                 <span className="text-3xl font-bold text-white">EM</span>
+                 <span className="text-3xl font-bold text-white">BA</span>
                </div>
                <h4 className="text-2xl font-bold mb-2 text-black">BandoArch</h4>
                <p className="text-black/80 font-medium mb-6">Frontend Developer</p>
