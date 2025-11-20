@@ -1,20 +1,35 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🎵 Spotify Showcase
 
-# Run and deploy your AI Studio app
+![Spotify Banner](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)
 
-This contains everything you need to run your app locally.
+Welcome to **BandoArch/Spotify-Showcase** — a portfolio project inspired by Spotify’s sleek design and music-first experience.  
+This project demonstrates modern web development practices, responsive UI components, and a passion for music-driven design.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1mpIeF-dAxxmE8SHBcphqfTWi1b7zyqZM
+---
 
-## Run Locally
+## 📂 Project Overview
+- Built with **TypeScript + Vite**
+- Modular **React components** for reusability
+- Features include:
+  - Hero section
+  - Playlist showcase
+  - Player bar
+  - Contact form
 
-**Prerequisites:**  Node.js
+---
 
+## 👤 Author
+**Ken (BandoArch)**  
+- 📧 Email: [eliudmugo360@gmail.com]  
+- 🌐 Portfolio: [https://github.com/BandoArch](https://github.com/BandoArch)  
+- 💼 LinkedIn: [www.linkedin.com/in/eliud-mugo-8a3822175]  
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 🚀 Getting Started
+Clone the repository and install dependencies:
+```bash
+git clone https://github.com/BandoArch/Spotify-Showcase.git
+cd Spotify-Showcase
+npm install
+npm run dev
