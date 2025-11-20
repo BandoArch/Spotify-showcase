@@ -17,9 +17,8 @@ Welcome to **BandoArch/Spotify-Showcase** — a portfolio project inspired by Sp
 ---
 
 ## 👤 Author
-**Ken (BandoArch)**  
+** (BandoArch)**  
 - 📧 Email: [eliudmugo360@gmail.com]  
-- 🌐 Portfolio: [https://github.com/BandoArch](https://github.com/BandoArch)  
 - 💼 LinkedIn: [www.linkedin.com/in/eliud-mugo-8a3822175]  
 
 ---
