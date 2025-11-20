@@ -2,7 +2,7 @@
 
 ![Spotify Banner](https://upload.wikimedia.org/wikipedia/commons/1/19/Spotify_logo_without_text.svg)
 
-Welcome to **BandoArch/Spotify-Showcase** — a portfolio project inspired by Spotify’s sleek design and music-first experience.  
+Welcome to **BandoArch's/Spotify-Showcase** — a portfolio project inspired by Spotify’s sleek design and music-first experience.  
 
 ---
 
