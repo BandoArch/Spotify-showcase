@@ -57,12 +57,12 @@ const Hero: React.FC = () => {
             {/* Phone Screen Content */}
             <div className="w-full h-full bg-gradient-to-b from-indigo-900 via-black to-black p-6 pt-12 flex flex-col">
                 <img 
-                  src="https://picsum.photos/seed/albumcover/400/400" 
-                  alt="Album Art" 
+                  src="/TeenX.jpg" 
+                  alt="TeenX.Jpg" 
                   className="w-full aspect-square rounded-lg shadow-2xl mb-8 object-cover"
                 />
-                <h3 className="text-2xl font-bold mb-1">Deep House Vibes</h3>
-                <p className="text-gray-400 mb-6">Various Artists</p>
+                <h3 className="text-2xl font-bold mb-1">Yale</h3>
+                <p className="text-gray-400 mb-6">Ken Carson</p>
                 
                 {/* Fake Progress Bar */}
                 <div className="w-full h-1 bg-white/20 rounded-full mb-2 overflow-hidden">

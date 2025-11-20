@@ -2,11 +2,11 @@ import React from 'react';
 import { Play } from 'lucide-react';
 
 const playlists = [
-  { id: '1', title: 'Today\'s Top Hits', description: 'Jung Kook is on top of the Hottest 50!', img: 'https://picsum.photos/seed/hits/300/300' },
-  { id: '2', title: 'RapCaviar', description: 'New music from Drake, Travis Scott and more.', img: 'https://picsum.photos/seed/rap/300/300' },
-  { id: '3', title: 'All Out 2010s', description: 'The biggest songs of the 2010s.', img: 'https://picsum.photos/seed/2010s/300/300' },
-  { id: '4', title: 'Rock Classics', description: 'Rock legends & epic songs.', img: 'https://picsum.photos/seed/rock/300/300' },
-  { id: '5', title: 'Chill Hits', description: 'Kick back to the best new and recent chill hits.', img: 'https://picsum.photos/seed/chill/300/300' },
+  { id: '1', title: 'Daily Mix 001', description: 'Destroy Lonely, Ken Carson...', img: "/Daily Mix 1.png" },
+  { id: '2', title: 'Daily Mix 002', description: 'Hako, Kymaniixo, ThxSoMuch...', img: "/Daily Mix 2.png" },
+  { id: '3', title: 'Daily Mix 003', description: '1nonly, Yun, Head, Slepvy808...', img: "/Daily Mix 3.png" },
+  { id: '4', title: 'Daily Mix 004', description: 'Fallen angel, SUICIDAL-IDOL, Saraunh0ly...', img: "/Daily Mix 4.png" },
+  { id: '5', title: 'Daily Mix 005', description: 'Travis Scott, Warhol.SS, A$AP ROCKY...', img: "/Daily Mix 5.png" },
 ];
 
 const PlaylistShowcase: React.FC = () => {

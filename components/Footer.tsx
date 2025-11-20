@@ -1,5 +1,6 @@
 import React from 'react';
 import { Music, Instagram, Twitter, Facebook } from 'lucide-react';
+import { FaSpotify } from "react-icons/fa";
 
 const Footer: React.FC = () => {
   return (
@@ -8,7 +9,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between gap-12 mb-12">
           
           <div className="flex items-center gap-2 mb-4 md:mb-0">
-            <Music className="w-8 h-8 text-white" fill="white" />
+            <FaSpotify className="w-8 h-8 text-green-500" />
             <span className="text-2xl font-bold tracking-tighter">Spotify</span>
           </div>
 

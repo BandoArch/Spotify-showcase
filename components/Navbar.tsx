@@ -1,5 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { Menu, X, Music } from 'lucide-react';
+import { FaSpotify } from "react-icons/fa";
+
 
 const Navbar: React.FC = () => {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -34,7 +36,7 @@ const Navbar: React.FC = () => {
       <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
         {/* Logo */}
         <div className="flex items-center gap-2 cursor-pointer">
-          <Music className="w-8 h-8 text-white" fill="white" />
+          <FaSpotify className="w-8 h-8 text-green-500" />
           <span className="text-2xl font-bold tracking-tighter">Spotify</span>
         </div>
 

@@ -21,13 +21,17 @@ const PlayerBar: React.FC<PlayerBarProps> = ({ currentTrack, isPlaying, onPlayPa
       {/* Left: Track Info */}
       <div className="flex items-center gap-4">
         <img 
-          src={currentTrack.coverUrl} 
-          alt="Cover" 
+          src= "/Location Carti.png"
+          alt="Location Carti.png" 
           className={`w-14 h-14 rounded shadow-lg ${isPlaying ? 'animate-pulse' : ''}`} 
         />
         <div className="hidden sm:block">
-          <h4 className="text-white text-sm font-medium hover:underline cursor-pointer">{currentTrack.title}</h4>
-          <p className="text-[#b3b3b3] text-xs hover:underline cursor-pointer">{currentTrack.artist}</p>
+          <h4 className="text-white text-sm font-medium hover:underline cursor-pointer">
+            Location
+          </h4>
+          <p className="text-[#b3b3b3] text-xs hover:underline cursor-pointer">
+            Playboi Carti
+          </p>
         </div>
         <button 
           className="ml-2 text-[#b3b3b3] hover:text-white transition-colors"
